@@ -3,6 +3,9 @@
 DrugCompat is a powerful tool designed to predict the compatibility of drug-excipient combinations using machine learning. It is particularly useful for pharmaceutical researchers and formulation scientists who are looking to quickly assess the compatibility of various drug and excipient combinations.
 
 Email- ganeshwaghule12@gmail.com
+
+![DrugCompat drawio](https://github.com/ganeshwaghule/DrugCompat/assets/142625938/b0f41e7b-cc73-4fd2-962e-290ba313b6d4)
+
 # Features:
 1. Compatibility Prediction: DrugCompat uses a pre-trained machine learning model to predict whether a given drug and excipient are compatible or not. It analyzes the molecular fingerprints of the compounds and provides a compatibility score.
 
